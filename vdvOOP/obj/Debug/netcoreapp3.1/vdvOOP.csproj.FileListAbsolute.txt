@@ -1,0 +1,13 @@
+C:\Users\ThanhNguyen\source\repos\vdvOOP\vdvOOP\bin\Debug\netcoreapp3.1\vdvOOP.exe
+C:\Users\ThanhNguyen\source\repos\vdvOOP\vdvOOP\bin\Debug\netcoreapp3.1\vdvOOP.deps.json
+C:\Users\ThanhNguyen\source\repos\vdvOOP\vdvOOP\bin\Debug\netcoreapp3.1\vdvOOP.runtimeconfig.json
+C:\Users\ThanhNguyen\source\repos\vdvOOP\vdvOOP\bin\Debug\netcoreapp3.1\vdvOOP.runtimeconfig.dev.json
+C:\Users\ThanhNguyen\source\repos\vdvOOP\vdvOOP\bin\Debug\netcoreapp3.1\vdvOOP.dll
+C:\Users\ThanhNguyen\source\repos\vdvOOP\vdvOOP\bin\Debug\netcoreapp3.1\vdvOOP.pdb
+C:\Users\ThanhNguyen\source\repos\vdvOOP\vdvOOP\obj\Debug\netcoreapp3.1\vdvOOP.csproj.AssemblyReference.cache
+C:\Users\ThanhNguyen\source\repos\vdvOOP\vdvOOP\obj\Debug\netcoreapp3.1\vdvOOP.AssemblyInfoInputs.cache
+C:\Users\ThanhNguyen\source\repos\vdvOOP\vdvOOP\obj\Debug\netcoreapp3.1\vdvOOP.AssemblyInfo.cs
+C:\Users\ThanhNguyen\source\repos\vdvOOP\vdvOOP\obj\Debug\netcoreapp3.1\vdvOOP.csproj.CoreCompileInputs.cache
+C:\Users\ThanhNguyen\source\repos\vdvOOP\vdvOOP\obj\Debug\netcoreapp3.1\vdvOOP.dll
+C:\Users\ThanhNguyen\source\repos\vdvOOP\vdvOOP\obj\Debug\netcoreapp3.1\vdvOOP.pdb
+C:\Users\ThanhNguyen\source\repos\vdvOOP\vdvOOP\obj\Debug\netcoreapp3.1\vdvOOP.genruntimeconfig.cache
